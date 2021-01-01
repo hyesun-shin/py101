@@ -13,4 +13,4 @@ create_world()
 hubo = Robot(beepers=1)
 
 hubo.move()
-hubo.
+hubo.move()
